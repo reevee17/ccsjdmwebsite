@@ -1,0 +1,31 @@
+.image-container1 {
+  
+    position:relative;
+    width: 1000px;
+    height: 1000px;
+    margin-top:1%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+display: block;
+right: 120px;
+    margin:auto;
+  }
+  
+  .top-row1,
+  .bottom-row1 {
+    display: flex;
+  }
+  
+  .top-row1 img,
+  .bottom-row1 img {
+    
+    position:relative;
+    display:flex;
+    width: 450px;
+    height: 300px;
+    margin: 5px;
+    border-radius: 10px;
+    object-fit: cover;
+    image-rendering: pixelated;
+  }

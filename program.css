@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+.links{
+    position:relative;
+    display:flex;
+    
+    margin-top: 20px;
+  
+}
+.links h1{
+    font-family: "Alfa Slab One";
+    margin-right: 200px;
+    position: relative;
+    top:150px;
+    color: transparent;
+    -webkit-text-stroke:.2px black;
+    text-shadow: 2px 2px #eb5a00;
+    text-decoration: underline black;
+}

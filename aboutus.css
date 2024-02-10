@@ -1,0 +1,60 @@
+/* Reset default margin and padding */
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+.logo {
+    float: left;
+    margin-right: 20px;
+
+}
+  .aboutUsHeader {
+    background-color: #eb5a00;
+    height: 70px;
+    width: 100%;
+  }
+  .aboutUsHeader h1{
+    text-align: center;
+    align-items: center;
+    font-family: "Alfa Slab One";
+    -webkit-text-stroke:.5px white;
+position: relative;
+top:20%;
+  }
+  /* Add this CSS to your existing stylesheets or create a new one */
+
+  
+  .image-container {
+
+    position:relative;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+  }
+  
+  .image {
+
+    margin-top:10%;
+    text-align: center;
+    margin-right: 100px;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .image img {
+    
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .image h1 {
+    font-family: "Alfa Slab One";
+text-decoration: underline;
+text-shadow: 0px 0px 4px #eb5a00;
+    margin-top: 10px;
+    font-size: 50px;
+  }
+  .image a {
+   color:black;
+  }

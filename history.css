@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.paragraphHolder{
+  margin:auto;
+  align-items: center;
+  justify-content:center;
+    left:15%;
+    position:relative;
+    width: 1314.7px;
+    height: 674.2px;
+}
+.paragraphHolder p{
+    top: 20%;
+    font-family: "Montserrat";
+    text-align: justify;
+    position: relative;
+    font-size: 21.6px;
+    font-weight: bold;
+    line-height: 150%;
+  
+}
